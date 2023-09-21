@@ -1,5 +1,4 @@
 import random
-#import amazin_maze  # Assurez-vous que le nom du module est correctement orthographié
 
 class Generateurlabyrinth:
     def __init__(self, n):
